@@ -11,4 +11,4 @@
       I hope you find something new here which boost your knowledge. 
       Suggestions are alawys welcomed.
       
-      Thanks, Regrads and Wel Wishes for All !!!💞️
+      Thanks, Regrads and Well Wishes for All !!!💞️
