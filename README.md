@@ -1,8 +1,5 @@
 - 👋 Hi,
-      I am Muhammad Abubakar.
-      A confident, enthusiastic and hard working person who is able to design programmes of the concepts of Ruby on Rails, React.js, PostgreSQL, HTML,
-      CSS, Javascript, Cloud Computing, C++, Java & OOP. Possessing extensive knowledge of programming logics & methods and having
-      immense subject knowledge, enthusiasm and charisma, as well as a genuine interest in producing something new and better.💞️
+      As a skilled Ruby on Rails and React.js developer having 2+ years of experience, I bring expertise in building robust web applications and delivering quality software solutions. With additional proficiency in React.js, Postgres, Sidekiq, Stripe, Twilio, Elasticsearch, and Google APIs, as well as experience deploying and managing applications on AWS, Heroku, and Aptible, I am well-equipped to handle a variety of complex technical challenges. I am passionate about collaborating with teams to create innovative, user-centric software products that drive business success.💞️
 
 - 📫 How to reach me ...
       Email: abubakarkhalid637@gmail.com
