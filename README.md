@@ -1,5 +1,5 @@
 - 👋 Hi,
-      As a skilled Ruby on Rails and React.js developer having 2+ years of experience, I bring expertise in building robust web applications and delivering quality software solutions. With additional proficiency in React.js, Postgres, Sidekiq, Stripe, Twilio, Elasticsearch, and Google APIs, as well as experience deploying and managing applications on AWS, Heroku, and Aptible, I am well-equipped to handle a variety of complex technical challenges. I am passionate about collaborating with teams to create innovative, user-centric software products that drive business success.💞️
+      As a skilled Ruby on Rails and React.js engineer having 6+ years of experience, I bring expertise in building robust web applications and delivering quality software solutions. With additional proficiency in React.js, Postgres, Sidekiq, Stripe, Twilio, Elasticsearch, and Google APIs, as well as experience deploying and managing applications on AWS, Heroku, and Aptible, I am well-equipped to handle a variety of complex technical challenges. I am passionate about collaborating with teams to create innovative, user-centric software products that drive business success.💞️
 
 Note: Most of my work is on my organization's github account which I am not allowed to share :)
 
