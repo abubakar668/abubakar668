@@ -6,36 +6,37 @@
 
 ```yaml
 name: Muhammad Abubakar
-current_job: Full Stack Developer
+current_job: Senior Python/AI Engineer
 education:
   - "Bachelor's in Computer Science"
   - "Actively engaging in online courses to stay updated with the latest in technology and software development."
 
 fields_of_interest:
   - "Full Stack Web Development"
+  - "Artificial Intelligence"
+  - "Machine Learning"
+  - "LLM-RAG-SFT-RLHF"
   - "Cloud Solutions"
-  - "API Development"
   - "Software Architecture"
-  - "Cybersecurity"
 
 technical_background:
   - "Full Stack Developer"
-  - "Ruby on Rails Specialist"
+  - "Python/AI Engineer"
+  - "Ruby on Rails Developer"
   - "React Developer"
-  - "Python Developer"
   - "System Architect"
   - "API and Backend Solutions"
   - "Cloud Service Management"
   - "Web and Mobile Solutions"
 
 technologies:
-  - "Ruby on Rails"
-  - "React"
+  - "Python"
   - "Django"
   - "FastAPI"
   - "Flask"
+  - "Ruby on Rails"
+  - "React"
   - "JavaScript"
-  - "Python"
   - "Redux"
   - "MySQL"
   - "PostgreSQL"
@@ -55,9 +56,8 @@ currently_learning:
 hobbies_and_goals:
   hobbies:
   - "Exploring new cuisines"
-  - "Photography"
+  - "Gym"
   - "Traveling to new destinations"
-  - "Playing the guitar"
   - "Hiking and nature trips"
   goals:
     - "Lead and deploy significant software projects."
@@ -70,14 +70,14 @@ hobbies_and_goals:
 
 ## 🛠️ Tools and Technologies
 
-![Ruby on Rails](https://img.shields.io/badge/ruby_on_rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/ruby_on_rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
